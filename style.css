@@ -1,0 +1,10 @@
+.main-container {
+  display: flex;
+  justify-content: center;
+}
+.image-container {
+  margin-right: 1.5rem;
+}
+.form-container {
+  margin-left: 1.5rem;
+}
