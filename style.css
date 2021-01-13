@@ -28,6 +28,7 @@ body {
 .input-container{
     display: flex;
     flex-direction: column;
+    margin-bottom: 1.5rem;
 }
 
 .username-input, .password-input{
@@ -38,4 +39,13 @@ body {
 }
 .username-input{
     margin-bottom: 0.5rem;
+}
+.log-in-btn{
+    background-color: #3095F3;
+    padding: 0.8rem;
+    width: 100%;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-size: 1.2rem;
 }
